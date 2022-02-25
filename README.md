@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azeezade
+- 👋 Hi, I’m @hayzedDev
 - 👀 I’m interested in anything interesting Technology make amazing things
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on any backend and js projects
